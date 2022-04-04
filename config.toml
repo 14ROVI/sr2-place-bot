@@ -24,6 +24,6 @@ priority = 1
 [[structure]]
 name = "logo"
 file = "images/logo.png"
-startx = 1479
-starty = 416
+startx = 1984
+starty = 276
 priority = 1

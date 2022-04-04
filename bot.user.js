@@ -63,9 +63,7 @@ function getRandomPixel(pixelData) {
 
 async function attemptPlace() {
 	let pixelData = await getPixelData();
-	console.log(pixelData);
 	let randomPixel = getRandomPixel(pixelData);
-	console.log(randomPixel);
 
 	let x = randomPixel.x;
 	let y = randomPixel.y;
